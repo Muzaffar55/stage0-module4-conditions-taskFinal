@@ -3,7 +3,7 @@ package school.mjc.stage0.conditions.finalTask;
 public class IntegerDivider {
 
     public static void main(String[] args) {
-        System.out.println(25/0);
+        System.out.println(25 / 0);
     }
 
     public static void printCompletelyDivided(int dividend, int divider) {
